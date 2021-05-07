@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node.js, React Native and JavaScript.
 - 🖥 I’m looking for some opportunity to work with development.
 - 💬 Ask me about books, anime, movies, games and more...
-- 📫 How to reach me: mbscbsjbs@gmail.com
+- 📫 How to reach me: Twitter - [@mxtheusbs](https://twitter.com/mxtheusbs), Email - mbscbsjbs@gmail.com
 
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=WhoisBsa&theme=buefy"/>
