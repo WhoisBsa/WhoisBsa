@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter - [@mxtheusbs](https://twitter.com/mxtheusbs), Email - mbscbsjbs@gmail.com
 
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=WhoisBsa&theme=151515"/>
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=whoisbsa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
