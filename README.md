@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Technical Assistant at Município de Capela Nova and I'm a Computer Science Student.
+- 🔭 I’m currently working on Technical Assistant at New Chapel Town Hall and I'm a Computer Science Student.
 - 🌱 I’m currently learning Node.js, React Native and JavaScript.
 - 🖥 I’m looking for some opportunity to work with development.
 - 💬 Ask me about tecnology, books, anime, movies, games and more...
