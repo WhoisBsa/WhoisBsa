@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Technical Assistant at Município de Capela Nova and I'm a Computer Science Student.
 - 🌱 I’m currently learning Node.js, React Native and JavaScript.
 - 🖥 I’m looking for some opportunity to work with development.
-- 💬 Ask me about books, anime, movies, games and more...
+- 💬 Ask me about tecnology, books, anime, movies, games and more...
 - 📫 How to reach me: Twitter - [@mxtheusbs](https://twitter.com/mxtheusbs), Email - mbscbsjbs@gmail.com
 
 
