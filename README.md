@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Developer Analyst at PSV Engenharia de Sistemas and I'm a Computer Scientist.
+- 🔭 I’m currently working on Developer and I'm a Computer Scientist.
 - 🌱 I’m currently learning Angular, RxJS and JavaScript.<img align="right" src="https://github.com/luan-j/luan-j/blob/main/image/illustration.png?raw=true" width="300"/>
 - 💬 Ask me about tecnology, books, anime, movies, games and more...
 - 📫 How to reach me: Twitter - [@mxtheusbs](https://twitter.com/mxtheusbs), Email - mbscbsjbs@gmail.com
